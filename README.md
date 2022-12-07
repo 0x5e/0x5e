@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![0x5e's GitHub stats](https://github-readme-stats.vercel.app/api?username=0x5e&count_private=true&show_icons=true&include_all_commits=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="hhttps://github-readme-stats.vercel.app/api?username=0x5e&show_icons=true&include_all_commits=true&count_private=true&theme=swift" alt="0x5e's github stats" /></a>
