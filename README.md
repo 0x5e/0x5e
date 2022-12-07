@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **0x5e/0x5e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![0x5e's GitHub stats](https://github-readme-stats.vercel.app/api?username=0x5e&count_private=true&show_icons=true&include_all_commits=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
